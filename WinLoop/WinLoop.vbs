@@ -1,3 +1,3 @@
 Do
-  MsgBox("Is your PC Hacked?", vbYesNo + vbQuestion, "PC Hacked?")
+  msg = MsgBox("Is your PC Hacked?", vbYesNo + vbQuestion, "PC Hacked?")
 Loop
